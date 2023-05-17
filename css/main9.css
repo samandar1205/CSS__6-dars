@@ -1,0 +1,14 @@
+.wrap{
+    width: 1200px;
+}
+.mol{
+    margin-left: 700px;
+    width: 600px;
+    height: 600px;
+    display: block;
+    background: radial-gradient(green,white,blue);
+}
+.loy{
+    text-align: center;
+    padding: 220px;
+}

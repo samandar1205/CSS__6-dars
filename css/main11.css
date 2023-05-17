@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.mol{
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    border: black;
+    margin:150px auto;
+    box-shadow: -15px -15px 15px -13px rgba(0,0,255),
+    15px -15px 15px -13px rgb(255,255,0),
+    15px 15px 15px -13px rgb(0,255,0),
+    -15px 15px 15px -13px rgb(150,0,255);
+}

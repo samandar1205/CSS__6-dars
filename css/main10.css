@@ -1,0 +1,19 @@
+body{
+    width: 1200px;
+    background-color: white;
+}
+.mol1{
+    width: 800px;
+    height: 100px;
+    background: linear-gradient(180deg,green,deepskyblue,brown);
+    text-align: center;
+    padding: 120px;
+}
+.mol2{
+    margin-top: 20px;
+    width: 800px;
+    height: 100px;
+    background: linear-gradient(90deg,orange,yellow,green,blue,blueviolet);
+    text-align: center;
+    padding: 120px;
+}

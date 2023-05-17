@@ -1,0 +1,9 @@
+.wrap{
+    width: 100%;
+}
+.mol{
+    width: 580px;
+    height: 580px;
+    background: radial-gradient(red,yellow,green);
+    margin-left: 30%;
+}

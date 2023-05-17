@@ -1,0 +1,127 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+.row{
+    width: 100%;
+    display: inline-block;
+}
+.col{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: left;
+    margin: 0 50px;
+    box-shadow: 0 0 50px blue ;
+    border: 1px solid;
+
+}
+.sana{
+
+    padding: 5rem 0;
+    text-align: center;
+    font-size:50px ;
+    font-weight: bold;
+    background-color: red;
+
+}
+
+
+.col2{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: left;
+    margin: 0 50px;
+    box-shadow: 20px 0 50px blue ;
+    border: 1px solid;
+}
+.sana2{
+
+    padding: 5rem 0;
+    text-align: center;
+    font-size:30px ;
+    font-weight: bold;
+    background-color: red;
+
+}
+.col3{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: left;
+    margin: 0 50px;
+    box-shadow: 20px 0 100px blue;
+    border: 1px solid;
+}
+.sana3{
+
+    padding: 5rem 0;
+    text-align: center;
+    font-size:50px ;
+    font-weight: bold;
+    background-color: red;
+
+}
+.clear{
+    clear: both;
+}
+.col4{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: left;
+    margin: 0 50px;
+    box-shadow:0 0 80px blue  inset  ;
+    border: 1px solid;
+    margin-top: 100px;
+}
+.sana4{
+
+    padding: 5rem 0;
+    text-align: center;
+    font-size:50px ;
+    font-weight: bold;
+    background-color: red;
+    box-shadow:0 0 80px  inset ;
+}
+.col5{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: left;
+    margin: 0 50px;
+    box-shadow: 0 0 80px blue  inset ;
+    border: 1px solid;
+    margin-top: 100px;
+}
+.sana5{
+
+    padding: 5rem 0;
+    text-align: center;
+    font-size:50px ;
+    font-weight: bold;
+    background-color: red;
+
+}
+.col6{
+    width: 20%;
+    height: 20%;
+    display: block;
+    float: left;
+    margin: 0 50px;
+    box-shadow: 0 0 80px blue  inset ;
+    border: 1px solid;
+    margin-top: 100px;
+}
+.sana6{
+
+    padding: 5rem 0;
+    text-align: center;
+    font-size:50px ;
+    font-weight: bold;
+    background-color: red;
+
+}
